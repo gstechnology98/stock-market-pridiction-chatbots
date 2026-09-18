@@ -10,8 +10,8 @@ This project is based on AI Models and predicts the stock market and charts with
 - pip install nltk
 
 ### 2. Importing Required Libraries
-import nltk
-import re
+import nltk "<br>"
+import re "<br>"
 from nltk.chat.util import Chat, reflections
 
 ### 3. Downloading NLTK Datasets
